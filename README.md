@@ -1,4 +1,5 @@
-                                                        LOGISTICS WEBSITE CASE STUDY
+                                            LOGISTICS WEBSITE CASE STUDY
+                                                        
 Vietfly is an air freight transportation service company that delivers goods from the United States to Vietnam. They offer three types of transportation services:
 
 Airport: Customers can pick up their goods at the airport in Vietnam.
